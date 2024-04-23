@@ -1,1 +1,1 @@
-print('Hello ,World!')//Console: Hello, World!
+print('Hello ,World!')
